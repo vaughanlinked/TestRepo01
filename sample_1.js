@@ -14,12 +14,6 @@
                 details: 'Field '+name
                 });
 
-            //more changes to the file    
-            //another change
-            //yet another change
-            // and another one
-            // another one after commit
-            // new repo new line
             // if (stCurrSublist === 'item' && stCurrField === 'department') {
             if (stCurrField === 'department' && 
             (recObject.getValue({fieldId: fieldName})!='' || recObject.getValue({fieldId: fieldName})!=null)) 
