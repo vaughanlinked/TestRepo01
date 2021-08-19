@@ -16,8 +16,8 @@
                 details: 'Field '+name
                 });
 
-                //github branch
-                //new comment for newbranch
+                //github newbranch2
+                //new comment for newbranch2
             // if (stCurrSublist === 'item' && stCurrField === 'department') {
             if (stCurrField === 'department' && 
             (recObject.getValue({fieldId: fieldName})!='' || recObject.getValue({fieldId: fieldName})!=null)) 
