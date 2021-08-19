@@ -14,6 +14,7 @@
                 details: 'Field '+name
                 });
 
+                //github branch
             // if (stCurrSublist === 'item' && stCurrField === 'department') {
             if (stCurrField === 'department' && 
             (recObject.getValue({fieldId: fieldName})!='' || recObject.getValue({fieldId: fieldName})!=null)) 
